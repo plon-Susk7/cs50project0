@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  display: flex;
+  justify-content: flex-end;
+  padding: 15px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+
+p {
+  margin-right: auto;
+  font-weight: bold;
+}
+
+input {
+  width: 518px;
+}
+
+.inputtable {
+  margin: 20px 40px;
+}
+
+.inputtable tr {
+  font-size: 15px;
+}
+
+td {
+  padding: 10px;
+}
+.search-b {
+  width: 500px;
+}
+input {
+  padding: 7px;
+  border: 1px solid black;
+}
+#sub-btn {
+  width: 150px;
+  background-color: #4d90fe;
+  color: white;
+  border-style: none;
+  float: right;
+  padding: 8px 10px;
+}
